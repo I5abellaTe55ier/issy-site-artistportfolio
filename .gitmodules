@@ -1,0 +1,3 @@
+[submodule "themes/art-hugo-theme"]
+	path = themes/art-hugo-theme
+	url = https://github.com/sizerhans/art-hugo-theme.git
