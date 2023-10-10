@@ -8,6 +8,6 @@ Description: "Figurative drawing inspired by sketches made in response to the pe
 Thumbnail: images/Drawing/fucking-jacket1-Thumb.webp #append link to image that will be shown on the list page
 Coverimage: images/Drawing/fucking-jacket1.jpg #the image that will be displayed at the top of the post
 Caption: test #the caption of that image
-Tags: ["More Blacks More Dogs More Irish","Drawings from Performance"] #tags allow related content to be grouped together, add more by adding a comma to the latest tag
+Tags: ["More Blacks More Dogs More Irish","Drawings from Performance", "Featured"] #tags allow related content to be grouped together, add more by adding a comma to the latest tag
 ---
 

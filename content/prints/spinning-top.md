@@ -8,6 +8,6 @@ Description: "A lithograph portrait of Karina in motion" #Description of the pos
 Thumbnail: images/Prints/spinning-top-thumb.webp #append link to image that will be shown on the list page
 Coverimage: images/Prints/spinning-top.jpg #the image that will be displayed at the top of the post
 Caption: test #the caption of that image
-Tags: ["Lithograph","Karina"] #tags allow related content to be grouped together, add more by adding a comma to the latest tag
+Tags: ["Lithograph","Karina", "Prints"] #tags allow related content to be grouped together, add more by adding a comma to the latest tag
 ---
 Spinning Top, Lithograph, 38cm x 27.9cm, made at Hole Editions, edition size 8. Three prints available to buy, contact issy.tessier@gmail.com for prices. 

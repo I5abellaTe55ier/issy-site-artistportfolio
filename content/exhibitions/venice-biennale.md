@@ -8,6 +8,6 @@ Description: Showcasing a series of figurative performance prints and drawings m
 Thumbnail: images/Exhibitions/Venice Biennale/Exhibition and talk/1-Cover-image-Thumb.webp #append link to image that will be shown on the list page
 Coverimage: images/Exhibitions/Venice Biennale/Exhibition and talk/2-Cover-image.jpg #the image that will be displayed at the top of the post
 Caption: Test #the caption of that image
-Tags: ["Biennale","Drawings From Performance","Prints","Dance"] #tags allow related content to be grouped together, add more by adding a comma to the latest tag
+Tags: ["Biennale","Drawings From Performance","Prints","Dance", "Featured"] #tags allow related content to be grouped together, add more by adding a comma to the latest tag
 ---
 
