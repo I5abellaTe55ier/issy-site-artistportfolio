@@ -1,6 +1,6 @@
 ---
 Title: "'Fucking Jacket' More Blacks, More Dogs, More Irish"
-ListTitle: "'Fucking Jacket'More Blacks, More Dogs, More Irish" #the text that is displayed below each post on the list pages
+ListTitle: "'Fucking Jacket' More Blacks, More Dogs, More Irish" #the text that is displayed below each post on the list pages
 Date: 2023-05-01T21:19:29+01:00 #how posts are ordered 
 Url: /drawings/fucking-jacket #this should be the category of the post and then the file name e.g. /print/printfilename
 Draft: false # change to false when you want to post
