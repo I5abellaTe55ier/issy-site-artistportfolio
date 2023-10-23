@@ -8,7 +8,7 @@ Description: "A lithograph that captures a still from the film 'Shadow Puppets' 
 Thumbnail: images/Prints/Shadow-Fresco-Thumb.webp #append link to image that will be shown on the list page
 Coverimage: images/Prints/Shadow-Fresco.jpg #the image that will be displayed at the top of the post
 Caption: test #the caption of that image
-Tags: ["Lithograph","Prints","Shadow Puppets"] #tags allow related content to be grouped together, add more by adding a comma to the latest tag
+Tags: ["Lithograph","Prints for sale","Shadow Puppets"] #tags allow related content to be grouped together, add more by adding a comma to the latest tag
 ---
 Shadow Fresco, Lithograph, 38cm x 49cm, (2022), edition size 6. 
 Four prints available to buy, contact issy.tessier@gmail.com for prices.

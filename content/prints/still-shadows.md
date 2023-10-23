@@ -8,6 +8,6 @@ Description: "Caught, still, filmed, a lithograph capturing the film 'Shadow Pup
 Thumbnail: images/Prints/still-shadows-thumb.webp #append link to image that will be shown on the list page
 Coverimage: images/Prints/still-shadows.jpg #the image that will be displayed at the top of the post
 Caption: test #the caption of that image
-Tags: ["Lithograph","Prints", "Shadow Puppets"] #tags allow related content to be grouped together, add more by adding a comma to the latest tag
+Tags: ["Lithograph","Prints for sale", "Shadow Puppets"] #tags allow related content to be grouped together, add more by adding a comma to the latest tag
 ---
 Still Shadows, Lithograph, 38cm x 25cm (2022), unique print. 
