@@ -10,4 +10,4 @@ Coverimage: images/Prints/still-shadows.jpg #the image that will be displayed at
 Caption: test #the caption of that image
 Tags: ["Lithograph","Prints for sale", "Shadow Puppets"] #tags allow related content to be grouped together, add more by adding a comma to the latest tag
 ---
-Still Shadows, Lithograph, 38cm x 25cm (2022), unique print. 
+'Still Shadows', Lithograph, 38cm x 25cm (2022), unique print. 
