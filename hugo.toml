@@ -13,6 +13,8 @@ theme = 'art-hugo-theme'
     instagram = 'https://www.instagram.com/isabella.tessier/'
     linkedin = 'https://www.linkedin.com/in/issy-tessier-940a7a188/'
 
+    footerMessage = '© 2023 - Isabella Tessier: issy.tessier@gmail.com'
+
 
     [[params.navlinks]]
     name = "Drawings"
