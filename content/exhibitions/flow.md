@@ -10,7 +10,7 @@ Coverimage: images/exhibitions/flow-1.jpg #the image that will be displayed at t
 Featured: False # If True, Post will be featured on home page
 Tags: ["collaboration"] #tags currently control which posts are featured and what prints are available to buy, add more by adding a comma to the latest tag
 ---
-![This is drawing with blue and yellow of many children dancing with fabric](https://isabellatessier.co.uk/images/exhibitions/flow2.jpg)
+![This is drawing with blue and yellow of many children dancing with fabric](https://raw.githubusercontent.com/I5abellaTe55ier/issy-site-artistportfolio/main/assets/images/exhibitions/flow2.jpg)
 The Flow Project II, mixed media drawing, 70cm x 45cm, (2023)
 
 The Flow Project Collaboration between Isabella Tessier and Ponteland Primary School and the Pele School Trust revolved around alternative forms of documentation of movement. Isabella Tessier visited Ponteland Primary School over a period of three months to draw classes from nursery to year five as they learnt and performed choreographed dances inspired by the River Tyne, as part of a project called Flow. From the collaboration two drawings were created for an exhibition at Ponteland Primary School to sit alongside a documentary of the dance performances and artwork from the students.
