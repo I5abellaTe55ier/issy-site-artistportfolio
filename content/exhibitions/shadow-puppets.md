@@ -6,10 +6,11 @@ Url: /exhibitions/shadow-puppets #this should be the category of the post and th
 Draft: False # change to false when you want to post
 Description: "Shadow Puppets captures a procession of collective movement and screened in Newcastle University Lecture Theatre. The film was made in collaboration with a dancer, Juanita Santife and musician, Marcus Pederson." #Description of the post
 Thumbnail: images/Exhibitions/Shadow Puppets/shadow-puppets-Thumb.webp #append link to image that will be shown on the list page
-Coverimage: images/Exhibitions/Shadow Puppets/shadow-puppets.webp #the image that will be displayed at the top of the post
+Coverimage: images/Exhibitions/Shadow Puppets/shadow-puppets.jpg #the image that will be displayed at the top of the post
 Caption: test #the caption of that image
 Tags: ["Shadow Puppets","Film and performance"] #tags allow related content to be grouped together, add more by adding a comma to the latest tag
 ---
+
 To see the full video click https://vimeo.com/manage/videos/697341968
 
 

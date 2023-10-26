@@ -6,7 +6,7 @@ Url: /exhibitions/a-portal-into-no-immediate-danger #this should be the category
 Draft: False# change to false when you want to post
 Description: "A group exhibition exploring marks and connections" #Description of the post
 Thumbnail: images/Exhibitions/Venice Biennale/Exhibition and talk/Samsara/Samsara-Thumb.webp #append link to image that will be shown on the list page
-Coverimage: images/Exhibitions/Venice Biennale/Exhibition and talk/Samsara/Samsara.webp #the image that will be displayed at the top of the post
+Coverimage: images/Exhibitions/Venice Biennale/Exhibition and talk/Samsara/Samsara.jpg #the image that will be displayed at the top of the post
 Caption: test #the caption of that image
 Tags: ["Drawing","Drawings from performance"] #tags allow related content to be grouped together, add more by adding a comma to the latest tag
 ---
