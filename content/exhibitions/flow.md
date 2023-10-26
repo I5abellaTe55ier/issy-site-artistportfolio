@@ -7,7 +7,6 @@ Draft: False # change to false when you want to post
 Description: The Flow Project I, mixed media drawing, 70cm x 45cm, (2023) #Description of the post
 Thumbnail: images/exhibitions/Flow-thumb-1.jpg #append link to image that will be shown on the list page
 Coverimage: images/exhibitions/flow-1.jpg #the image that will be displayed at the top of the post
-Featured: False # If True, Post will be featured on home page
 Tags: ["collaboration"] #tags currently control which posts are featured and what prints are available to buy, add more by adding a comma to the latest tag
 ---
 ![This is drawing with blue and yellow of many children dancing with fabric](https://raw.githubusercontent.com/I5abellaTe55ier/issy-site-artistportfolio/main/assets/images/exhibitions/flow2.jpg)
