@@ -1,7 +1,7 @@
 ---
 Title: Let Me Take Your Salsa Hand
-ListTitle: Let Me Take Your Salsa Hand, 2024 #the text that is displayed below each post on the list pages
-FeaturedTitle: Let Me Take Your Salsa Hand, 2024 #the text that is displayed if the post is on the featured slot
+ListTitle: Let Me Take Your Salsa Hand (2024) #the text that is displayed below each post on the list pages
+FeaturedTitle: Let Me Take Your Salsa Hand #the text that is displayed if the post is on the featured slot
 Date: 2024-01-01T16:40:20Z #how posts are ordered 
 Url: /prints/salsa-hands #this should be the category of the post and then the file name e.g. /print/printfilename
 Draft: False # change to false when you want to post
