@@ -4,7 +4,7 @@ ListTitle: Let Me Take Your Salsa Hand, 2024 #the text that is displayed below e
 FeaturedTitle: Let Me Take Your Salsa Hand, 2024 #the text that is displayed if the post is on the featured slot
 Date: 2024-01-01T16:40:20Z #how posts are ordered 
 Url: /prints/salsa-hands #this should be the category of the post and then the file name e.g. /print/printfilename
-Draft: True # change to false when you want to post
+Draft: False # change to false when you want to post
 Description: ‘Let Me Take Your Salsa Hand’, lithograph, 51cm x 75.5cm, Edition Size 15, (2024) #Ca[tion for main image and description for alt images
 Thumbnail: images/prints/ThumbnailHands-2.jpg #append link to image that will be shown on the list page
 Coverimage: images/prints/Hands-2.jpg #the image that will be displayed at the top of the post
