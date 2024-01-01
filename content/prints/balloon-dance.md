@@ -8,7 +8,7 @@ Draft: False # change to false when you want to post
 Description: Balloon Dance, monoprint, 76cm x 56cm, (2023) #Ca[tion for main image and description for alt images
 Thumbnail: images/prints/Balloon Dance thumbnail.jpg #append link to image that will be shown on the list page
 Coverimage: images/prints/Balloon Dance feature photo.jpg #the image that will be displayed at the top of the post
-Tags:["Prints for sale"] #tags currently control which posts are featured and what prints are available to buy, add more by adding a comma to the latest tag
+Tags: ["Prints for sale"] #tags currently control which posts are featured and what prints are available to buy, add more by adding a comma to the latest tag
 ---
 As marks of movement expand airily across the paper, a figurative form is found among them. The figure anchors the marks around it with a forceful directional intent and is yet  undefined, blurred and mysterious. The print collages drawings made in response to the Rambert Playground. 
 <!----
