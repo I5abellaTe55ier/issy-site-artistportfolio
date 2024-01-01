@@ -1,5 +1,5 @@
 ---
-Title: Let Me Take Your Salsa Hand, 2024
+Title: Let Me Take Your Salsa Hand
 ListTitle: Let Me Take Your Salsa Hand, 2024 #the text that is displayed below each post on the list pages
 FeaturedTitle: Let Me Take Your Salsa Hand, 2024 #the text that is displayed if the post is on the featured slot
 Date: 2024-01-01T16:40:20Z #how posts are ordered 
