@@ -1,11 +1,11 @@
 ---
-Title: A Collection of Scenes: More Blacks, More Dogs, More Irish
-ListTitle: A Collection of Scenes: More Blacks, More Dogs, More Irish (2023) #the text that is displayed below each post on the list pages
-FeaturedTitle: #the text that is displayed if the post is on the featured slot
+Title: A Collection of Scenes More Blacks, More Dogs, More Irish
+ListTitle: A Collection of Scenes More Blacks, More Dogs, More Irish (2023) #the text that is displayed below each post on the list pages
+FeaturedTitle:  A Collection of Scenes More Blacks, More Dogs, More Irish (2023) #the text that is displayed if the post is on the featured slot
 Date: 2024-01-02T13:32:55Z #how posts are ordered 
 Url: /drawings/a-collection-of-scenes #this should be the category of the post and then the file name e.g. /print/printfilename
 Draft: False # change to false when you want to post
-Description: A Collection of Scenes: More Blacks, More Dogs, More Irish, Chalk pastel drawing, 1.5m x 4.75m, (2023)  #Ca[tion for main image and description for alt images
+Description: A Collection of Scenes More Blacks, More Dogs, More Irish, Chalk pastel drawing, 1.5m x 4.75m, (2023)  #Ca[tion for main image and description for alt images
 Thumbnail: images/drawing/Degree show 2-3 thumbnail.jpg #append link to image that will be shown on the list page
 Coverimage: images/drawing/Degree show 2-3.jpg #the image that will be displayed at the top of the post
 Tags: ["Drawing"] #tags currently control which posts are featured and what prints are available to buy, add more by adding a comma to the latest tag
