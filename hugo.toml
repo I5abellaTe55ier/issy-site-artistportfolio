@@ -2,7 +2,7 @@ baseURL = 'https://isabellatessier.co.uk/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'art-hugo-theme'
-paginate: 6s
+paginate: 6
 
 [taxonomies]
     tag = 'tags'
