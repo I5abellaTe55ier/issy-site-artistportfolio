@@ -9,21 +9,18 @@ Draft: False # change to false when you want to post
 
 Isabella Tessier is an artist who works between Newcastle and London. Her art practice centres around the methodologies used to research, record and capture the transient experience of performance. The physicality of movement and identity of the performance are translated, through drawing, from the artist’s sketchbook and restaged on a larger than human scale. Past projects include collaborative work with theatre companies in Newcastle (2022), making monoprints in response to dance performances in the 59th Venice Biennale during my British Council fellowship (2022) and exploring footage of dance from the Library of Congress’s digital archive, work exhibited in Karina/Rita (2021).
 
-**CV**
+### CV
 
-**Education**
+##### Education
 
 MA Print Royal College of Art (2023-2024)  
-First Class Degree Newcastle University BA (Hons) Fine Art (2019-2023)  
+First Class Degree Newcastle University BA (Hons) Fine Art (2019-2023)
 
 
-**Solo Exhibitions**
+##### Solo Exhibitions
 
 ‘A Stage upon Which We Move’, Republic Gallery Public Window Box, currently shown at Seaton Delaval Hall, (2023-2024)  
 ‘The Immediacy of Performance Drawing’, Ex-Libris Space, Hatton Gallery(2023)  
-
-
-
 
 ##### Group Exhibitions
 
