@@ -8,7 +8,7 @@ Draft: False # change to false when you want to post
 Description: Karina and Me, Lithograph, 38cm x28cm, Edition of 12, printed at Hole Editions (2023).     #Description of the post
 Thumbnail: images/prints/Karina and Me-thumb.jpg #append link to image that will be shown on the list page
 Coverimage: images/prints/Karina-and-Me.jpg #the image that will be displayed at the top of the post
-Featured: True # If True, Post will be featured on home page
+Featured: False # If True, Post will be featured on home page
 Tags: ["Featured"] #tags currently control which posts are featured and what prints are available to buy, add more by adding a comma to the latest tag
 ---
 

@@ -5,10 +5,11 @@ FeaturedTitle: A Bird Between Us, Four Layer Reductive Lithogrpah, 58cm x44cm, E
 Date: 2023-12-30T13:46:16Z #how posts are ordered 
 Url: /prints/a-bird-between-us #this should be the category of the post and then the file name e.g. /print/printfilename
 Draft: False # change to false when you want to post
-Description: The  four layer reductive lithograph translates drawings made during a performance of 'More Blacks, More Dogs, More Irish' by Soreslap Theatre Company at Alphabet Theatre (2022). The print captures the figures of the two actors through gestural bodily mark making and the transformation of the space between them into a bird like creature that is the physical embodiment of their connection.
+Description: Reccently exhbited in the RBSA Print Prize 2024, 'A Bird Between Us' captures the figures of the two actors through gestural bodily mark making and the transformation of the space between them into a bird like creature that is the physical embodiment of their connection.
  #Description of the post
 Thumbnail: images/prints/Thumbnail A Bird Between Us. Lithograph-3.jpg #append link to image that will be shown on the list page
 Coverimage: images/prints/Tessier,Isabella. A Bird Between Us. Lithograph-3.jpg #the image that will be displayed at the top of the post
+Featured: True # If True, Post will be featured on home page
 Tags: ["Prints for sale"] #tags currently control which posts are featured and what prints are available to buy, add more by adding a comma to the latest tag
 ---
 
