@@ -1,6 +1,6 @@
 baseURL = 'https://isabellatessier.co.uk/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+languageCode = 'en-uk'
+title = 'Isabella Tessier'
 theme = 'art-hugo-theme'
 paginate = 6
 
@@ -10,6 +10,8 @@ paginate = 6
 [params]
 
     title = 'Isabella Tessier'
+
+    featuredTitle = 'Exhibited in the RBSA Print Prize (2024)'
      
     instagram = 'https://www.instagram.com/isabella.tessier/'
     linkedin = 'https://www.linkedin.com/in/issy-tessier-940a7a188/'
