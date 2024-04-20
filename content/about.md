@@ -11,11 +11,14 @@ Isabella Tessier is an artist who works between Newcastle and London. Her art pr
 
 CV
 
-Education:
+
+
+Education
 
 MA Print Royal College of Art (2023-2024)
 
 First Class Degree Newcastle University BA (Hons) Fine Art (2019-2023)
+
 
 
 
@@ -24,6 +27,8 @@ Solo Exhibitions
 ‘A Stage upon Which We Move’, Republic Gallery Public Window Box, currently shown at Seaton Delaval Hall, (2023-2024)
 
 ‘The Immediacy of Performance Drawing’, Ex-Libris Space, Hatton Gallery(2023)
+
+
 
 
 Group Exhibitions
@@ -47,7 +52,9 @@ Out of Thin Air, Southwark Park Gallery (2024)
 ‘Karina The Silent dancer’ Liveness Performance Research Network, Newcastle University Digital exhibition (2021)
 
 
-Artist Residencies:
+
+
+Artist Residencies
 
 ‘The Flow Project’ with Pele School Trust in Northumberland (2023)
 
@@ -58,6 +65,8 @@ Venice Biennale British Council Research Fellowship (June-July 2022)
 Lindisfarne Gospels, Newcastle City Council Student Residency (2022)
 
 Words and Worlds, Newcastle City Council Student Residency (2020)
+
+
 
 
 Research and Collaborations:
