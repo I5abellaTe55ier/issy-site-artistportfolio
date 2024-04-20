@@ -8,8 +8,7 @@ Draft: False # change to false when you want to post
 Description: Karina and Me, Lithograph, 38cm x28cm, Edition of 12, printed at Hole Editions (2023).     #Description of the post
 Thumbnail: images/prints/Karina and Me-thumb.jpg #append link to image that will be shown on the list page
 Coverimage: images/prints/Karina-and-Me.jpg #the image that will be displayed at the top of the post
-Featured: False # If True, Post will be featured on home page
-Tags: ["Featured"] #tags currently control which posts are featured and what prints are available to buy, add more by adding a comma to the latest tag
+Tags: [] #tags currently control which posts are featured and what prints are available to buy, add more by adding a comma to the latest tag
 ---
 
 Karina and Me is a limited edition Lithograph chosen for the Woolwich Contemporary Print Fair 2023, one of the largest Contemporary print fairs in Europe. In Karina and Me, Isabella Tessier explores the relationship between herself and the image of a dancer, Karina, from a 1898 mutoscope film reel, found at the Library of Congress digital archives.
