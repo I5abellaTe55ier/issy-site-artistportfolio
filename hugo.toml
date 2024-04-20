@@ -18,18 +18,17 @@ paginate = 6
 
     footerMessage = '© 2023 - Isabella Tessier: issy.tessier@gmail.com'
 
+    [[params.navlinks]]
+    name = "Exhibitions"
+    url = "exhibitions"
+    
+     [[params.navlinks]]
+    name = "Prints"
+    url = "prints"
 
     [[params.navlinks]]
     name = "Drawings"
     url = "drawings"
-
-    [[params.navlinks]]
-    name = "Exhibitions"
-    url = "exhibitions"
-
-    [[params.navlinks]]
-    name = "Prints"
-    url = "prints"
 
     [[params.navlinks]]
     name = "About"
