@@ -11,8 +11,10 @@ Coverimage: images/exhibitions/woolwich/Woolwich-1.png #the image that will be d
 Tags: [] #tags currently control which posts are featured and what prints are available to buy, add more by adding a comma to the latest tag
 ---
 Woolwich Contemporary Print Fair is the largest international art platform celebrating contemporary print. Chosen for the curated hang as a collectors pick, 'Karina and Me' explores the relationship between myself and the image of a dancer from a 1898 film reel, Karina. After a year long pseudo collaboration with Karina, imagining her as an image beyond the glimpse of her filmed self, this print explores the intermingling of our identity. By mixing the icons of Karina's iconic dress with my self portrait, I picture us as intertwined figures reaching out to each other.  
-£160  
-Karina and Me is avaiable for purchase upon contact. 
+---
+
+**£160**
+Karina and Me is available for purchase upon contact. 
 <!----
     Guide for basic text formatting if needed (italics, headings etc): https://www.markdownguide.org/basic-syntax/
 
