@@ -1,7 +1,7 @@
 ---
 Title: The Flow Project Collaboration (2023)
 ListTitle: The Flow Project Collaboration (2023) #the text that is displayed below each post on the list pages
-Date: 2023-10-25T10:34:38+01:00 #how posts are ordered 
+Date: 2023-08-25T10:34:38+01:00 #how posts are ordered 
 Url: /exhibitions/flow #this should be the category of the post and then the file name e.g. /print/printfilename
 Draft: False # change to false when you want to post
 Description: The Flow Project I, mixed media drawing, 70cm x 45cm, (2023) #Description of the post
