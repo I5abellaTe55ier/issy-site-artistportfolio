@@ -1,11 +1,11 @@
 ---
-Title: RBSA Print Prize
-ListTitle: RBSA Print Prize #the text that is displayed below each post on the list pages
+Title: RBSA Print Prize (2024)
+ListTitle: RBSA Print Prize (2024) #the text that is displayed below each post on the list pages
 FeaturedTitle: #the text that is displayed if the post is on the featured slot
 Date: 2024-04-20T17:46:08+01:00 #how posts are ordered 
 Url: /exhibitions/rbsa #this should be the category of the post and then the file name e.g. /print/printfilename
 Draft: False # change to false when you want to post
-Description: Post Description #Ca[tion for main image and description for alt images
+Description: In the RBSA Gallery, framed 'A Bird Between Us', Four Layer Reductive Lithograph, 58cm x44cm, Edition of 7 (2023) #Ca[tion for main image and description for alt images
 Thumbnail: images/exhibitions/rbsa/rbsa1thumb.jpg #append link to image that will be shown on the list page
 Coverimage: images/exhibitions/rbsa/rbsa1.jpg #the image that will be displayed at the top of the post
 Tags: [] #tags currently control which posts are featured and what prints are available to buy, add more by adding a comma to the latest tag
