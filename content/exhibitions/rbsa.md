@@ -14,6 +14,10 @@ First held in 2004, the biennial RBSA Print Prize is a celebration of printmakin
 
 'A Bird Between Us', chosen for the 2024 edition of the RBSA Print Prize, is a handprinted lithograph that translates the visceral connection between two performers from Sore Slap Theatre Company, based in Newcastle. Starting its life as a series of drawings made live during rehearsals, this print acts as ephemera, translation and embodied impression of their movements. Through gestural, bodily mark making and a reductive printing technique there is a  transformation of the space between the performers into a bird like creature that is the physical embodiment of their connection.
 
+![](https://raw.githubusercontent.com/I5abellaTe55ier/issy-site-artistportfolio/main/assets/images/exhibitions/rbsa/rbsa2.jpg)
+
+![](https://raw.githubusercontent.com/I5abellaTe55ier/issy-site-artistportfolio/main/assets/images/exhibitions/rbsa/rbsa3.jpg)
+
 <!----
     Guide for basic text formatting if needed (italics, headings etc): https://www.markdownguide.org/basic-syntax/
 
