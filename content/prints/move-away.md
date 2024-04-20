@@ -8,7 +8,7 @@ Description: "A 10 layer lithography print capturing the physical theatre during
 Thumbnail: images/Prints/Move-Away-More-Blacks-More-Dogs-More-Irish-Thumb.webp #append link to image that will be shown on the list page
 Coverimage: images/Prints/Move-Away-More-Blacks-More-Dogs-More-Irish.jpg #the image that will be displayed at the top of the post
 Caption: test #the caption of that image
-Tags: ["Lithography","More Blacks, More Dogs, More irish", "Prints for sale"] #tags allow related content to be grouped together, add more by adding a comma to the latest tag
+Tags: ["Lithography","More Blacks, More Dogs, More Irish"] #tags allow related content to be grouped together, add more by adding a comma to the latest tag
 ---
 Move Away, 'More Blacks, More Dogs, More Irish', 10 layer lithograph, 38cm x 27.9cm, (2023), made at Hole Editions, edition size 4.
 Two prints available to buy, contact issy.tessier@gmail.com for prices.
