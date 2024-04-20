@@ -1,6 +1,5 @@
 ---
-Title: Out of Thin Air   
-MA Print Royal College of Art at Southwark Park Galleries(2024)
+Title: Out of Thin Air MA Print Royal College of Art at Southwark Park Galleries(2024)
 ListTitle: Out of Thin Air (2024) #the text that is displayed below each post on the list pages
 FeaturedTitle: #the text that is displayed if the post is on the featured slot
 Date: 2024-02-20T20:33:51+01:00 #how posts are ordered 
