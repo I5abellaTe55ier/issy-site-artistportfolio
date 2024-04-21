@@ -2,7 +2,7 @@ baseURL = 'https://isabellatessier.co.uk/'
 languageCode = 'en-uk'
 title = 'Isabella Tessier'
 theme = 'art-hugo-theme'
-paginate = 6
+paginate = 8
 
 [taxonomies]
     tag = 'tags'
