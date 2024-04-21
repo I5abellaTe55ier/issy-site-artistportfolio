@@ -2,7 +2,7 @@
 Title: A Stage Upon Which We Move (2023-4)
 ListTitle: A Stage Upon Which We Move (2023-4) #the text that is displayed below each post on the list pages
 FeaturedTitle: #the text that is displayed if the post is on the featured slot
-Date: 2024-04-21T17:38:43+01:00 #how posts are ordered 
+Date: 2023-11-21T17:38:43+01:00 #how posts are ordered 
 Url: /exhibitions/publicwindowgallery #this should be the category of the post and then the file name e.g. /print/printfilename
 Draft: False # change to false when you want to post
 Description: RePublic Gallery Public Window Box Installation #Ca[tion for main image and description for alt images
