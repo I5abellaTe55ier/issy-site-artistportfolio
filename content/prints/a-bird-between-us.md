@@ -9,7 +9,7 @@ Description: A Bird Between Us, Four Layer Reductive Lithograph, 58cm x44cm, Edi
  #Description of the post
 Thumbnail: images/prints/Thumbnail A Bird Between Us. Lithograph-3.jpg #append link to image that will be shown on the list page
 Coverimage: images/prints/Tessier,Isabella. A Bird Between Us. Lithograph-3.jpg #the image that will be displayed at the top of the post
-Tags: ["Prints for sale", "Featured"] #tags currently control which posts are featured and what prints are available to buy, add more by adding a comma to the latest tag
+Tags: ["Prints for sale"] #tags currently control which posts are featured and what prints are available to buy, add more by adding a comma to the latest tag
 ---
 Reccently exhbited in the RBSA Print Prize 2024, 'A Bird Between Us' captures the figures of two actors through gestural bodily mark making and the transformation of the space between them into a bird like creature that is the physical embodiment of their connection.
 <!----
