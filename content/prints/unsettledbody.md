@@ -3,7 +3,7 @@ Title: The Unsettled Body, An Embodied Gaze (2024)
 ListTitle: The Unsettled Body, An Embodied Gaze (2024) #the text that is displayed below each post on the list pages
 FeaturedTitle: The Unsettled Body, An Embodied Gaze (2024) #the text that is displayed if the post is on the featured slot
 Date: 2024-06-22T23:57:23+01:00 #how posts are ordered 
-Url: /prints/unsettledbody.md #this should be the category of the post and then the file name e.g. /print/printfilename
+Url: /prints/unsettledbody #this should be the category of the post and then the file name e.g. /print/printfilename
 Draft: False # change to false when you want to post
 Description: 'The Unsettled Body, An Embodied Gaze, Stone Lithograph, 124cm x 98cm, (2024)' #Ca[tion for main image and description for alt images
 Thumbnail: images/prints/unsettledbodythumbnail.jpg #append link to image that will be shown on the list page
